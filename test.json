@@ -1,33 +1,35 @@
-//
-//  Last Updated:
-//  22/06/2021
-//
 {
-  "AC143_intl": {
-    "add": "0x935",
-    "remove": "0x936",
-    "update": "0x93e"
+  "intl": {
+    "ac143": {
+      "add": "0x935",
+      "remove": "0x936",
+      "update": "0x93e"
+    },
+    "ce": {
+      "opcode": "0x248",
+      "packetLength": 30
+    }
   },
-  "AC143_cn": {
-    "add": "0x935",
-    "remove": "0x936",
-    "update": "0x93e"
+  "cn": {
+    "ac143": {
+      "add": "0x935",
+      "remove": "0x936",
+      "update": "0x93e"
+    },
+    "ce": {
+      "opcode": "0x9e",
+      "packetLength": 30
+    }
   },
-  "AC143_ko": {
-    "add": "0x935",
-    "remove": "0x936",
-    "update": "0x93e"
-  },
-  "CE_intl": {
-    "opcode": "0x248",
-    "packetLength": 30
-  },
-  "CE_cn": {
-    "opcode": "0x3a2",
-    "packetLength": 30
-  },
-  "CE_ko": {
-    "opcode": "0x84b",
-    "packetLength": 30
+  "ko": {
+    "ac143": {
+      "add": "0x935",
+      "remove": "0x936",
+      "update": "0x93e"
+    },
+    "ce": {
+      "opcode": "0x341",
+      "packetLength": 30
+    }
   }
 }
