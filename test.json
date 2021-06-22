@@ -20,7 +20,7 @@
     "update": "0x93e"
   },
   "CE_intl": {
-    "opcode": "0x595",
+    "opcode": "0x248",
     "packetLength": 30
   },
   "CE_cn": {
