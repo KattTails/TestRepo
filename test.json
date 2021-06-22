@@ -2,20 +2,18 @@
 //  Last Updated:
 //  22/06/2021
 //
-[
-  {
-    "version": 12,
-    "intl": {
-      "opcode": 595,
-      "packetLength": 30
-    },
-    "cn": {
-      "opcode": 27,
-      "packetLength": 30
-    },
-    "ko": {
-      "opcode": 884,
-      "packetLength": 30
-    }
+{
+  "Version": 12,
+  "intl": {
+    "opcode": 1429,
+    "packetLength": 30
+  },
+  "cn": {
+    "opcode": 930,
+    "packetLength": 30
+  },
+  "ko": {
+    "opcode": 2123,
+    "packetLength": 30
   }
-]
+}
