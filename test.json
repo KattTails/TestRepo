@@ -3,17 +3,32 @@
 //  22/06/2021
 //
 {
-  "Version": 12,
-  "intl": {
-    "opcode": 1429,
-    "packetLength": 30
-  },
-  "cn": {
-    "opcode": 930,
-    "packetLength": 30
-  },
-  "ko": {
-    "opcode": 2123,
-    "packetLength": 30
-  }
+	"Version": 13,
+	"AC143_intl": {
+		"add": 2357,
+		"remove": 2358,
+		"update": 2366
+	},
+	"AC143_cn": {
+		"add": 2357,
+		"remove": 2358,
+		"update": 2366
+	},
+	"AC143_ko": {
+		"add": 2357,
+		"remove": 2358,
+		"update": 2366
+	},
+	"CE_intl": {
+		"opcode": 1429,
+		"packetLength": 30
+	},
+	"CE_cn": {
+		"opcode": 930,
+		"packetLength": 30
+	},
+	"CE_ko": {
+		"opcode": 2123,
+		"packetLength": 30
+	}
 }
